@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4llc3shcp0eahic7?svg=true)](https://ci.appveyor.com/project/la-chispa/wtf-test)
